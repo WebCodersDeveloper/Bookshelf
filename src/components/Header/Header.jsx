@@ -21,8 +21,9 @@ export default function Header() {
         <Link to='/'>
           <img src={HeaderLogo} alt="logo header" className="headerleft_logo" />
         </Link>
-        <form>
+        <form className="headerform">
           <img src={HeaderSearchIcon} alt="icon" />
+          <input type="search" className="headerforminp" placeholder="Search for any training you want"/>
         </form>
       </div>
       <div className="headerRight">
