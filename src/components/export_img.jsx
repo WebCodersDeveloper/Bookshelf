@@ -1,0 +1,6 @@
+export { default as HeaderLogo } from '../assets/logo.svg'
+export { default as HeaderSearchIcon } from '../assets/search-refraction.svg'
+export { default as HeaderRightImg } from '../assets/right.svg'
+export { default as SignUpFrame1IconG } from '../assets/social-logos.svg'
+export { default as SignUpFrame1IconF } from '../assets/social-logos (1).svg'
+export { default as ErrorImage } from '../assets/errorimage.svg'
