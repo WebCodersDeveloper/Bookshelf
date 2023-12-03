@@ -27,7 +27,7 @@ export default function Header() {
         </form>
       </div>
       <div className="headerRight">
-        <img src={HeaderRightImg} alt="" />
+        <img src={ HeaderRightImg } alt="" />
       </div>
     </StyledHeader>
   );
